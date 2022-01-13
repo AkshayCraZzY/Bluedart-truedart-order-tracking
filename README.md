@@ -32,7 +32,7 @@ Change the link of tracking :
 link = 'https://www.bluedart.com/web/guest/trackdartresultthirdparty?trackFor=0&trackNo='
 ```
 [Optional]</br>
-Change the frequency of checking (Value in seconds) :
+Change the frequency of checking (value in seconds) :
 ```python
  time.sleep(100)
 ```
